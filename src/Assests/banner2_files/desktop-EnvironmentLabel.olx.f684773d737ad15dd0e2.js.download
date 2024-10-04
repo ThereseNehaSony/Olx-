@@ -1,0 +1,2 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[9208],{66022:(e,n,t)=>{t.r(n),t.d(n,{EnvironmentLabel:()=>s,default:()=>_});var a=t(58056),r=t.n(a);var l=t(17319);const s=e=>{const{environment:n}=e.app;return"production"===n?null:r().createElement("span",{className:"RNJ2d","data-aut-id":"environmentLabel"},n," - ","desktop"," - ",r().createElement("span",null,"(Branch: )"))},_=(0,l.Z)(s)}}]);
+//# sourceMappingURL=desktop-EnvironmentLabel.olx.f684773d737ad15dd0e2.js.map
